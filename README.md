@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning ...
 
-<div style="display: inline_block">
+<div align="center" style="display: flex">
   <a href="https://github.com/williamalves94">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=williamalves94&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamalves94&layout=compact&langs_count=7&theme=dark"/>
@@ -24,5 +24,5 @@
   <a href="https://github.com/williamalves94" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/william-alves-4b7683221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    
-
+</div>
 
