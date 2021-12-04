@@ -1,6 +1,8 @@
 ### Olá! Eu sou o William Alves e seja bem-vindo ao meu perfil. 😃
 
-- 🌱 Atualmente Estudando HTML, CSS e JavaScript
+- 🤓 Atualmente Cursando o curso Fullstack webmaster da Danki Code.
+- 💻 Aprimorando os conhecimentos de HTML, CSS e JavaScript na Rocketseat.
+- 🧐 interesses em React JS e PHP.
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/williamalves94">
