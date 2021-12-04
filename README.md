@@ -1,6 +1,6 @@
 ### Olá! Eu sou o William Alves e seja bem-vindo ao meu perfil. 😃
 
-- 🌱 I’m currently learning ...
+- 🌱 Atualmente Estudando HTML, CSS e JavaScript
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/williamalves94">
