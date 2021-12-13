@@ -1,6 +1,6 @@
 ### Olá! Eu sou o William Alves e seja bem-vindo ao meu perfil. 😃
 
-- 💻 Atualmente estudando JavaScript
+- 💻 Atualmente estudando JavaScript.
 - 🧐 interesse em React JS.
 
 <div align="center" style="display: inline_block">
