@@ -5,7 +5,7 @@
 <p>Desenvolvedor Front-end Junior ReactJS 💻
 
   
- <p align="left">
+ <p align="left" style="border-radius:10px">
   <a href="https://www.linkedin.com/in/william-alves-4b7683221/" target="_blank" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
