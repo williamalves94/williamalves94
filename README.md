@@ -14,6 +14,6 @@
  
  <div style="display: "flex" ">
   <a href="https://github.com/williamalves94">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victorsouza19&show_icons=true&theme=jolly"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsouza19&layout=compact&langs_count=7&theme=jolly"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=williamalves94&show_icons=true&theme=jolly"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamalves94&layout=compact&langs_count=7&theme=jolly"/>
 </div>
