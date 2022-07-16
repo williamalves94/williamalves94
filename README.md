@@ -5,7 +5,7 @@
 <p>Desenvolvedor Front-end Junior ReactJS 💻
 
   
- <p align="left" margin-top="20px">
+ <p align="left">
   <a href="https://www.linkedin.com/in/william-alves-4b7683221/" target="_blank" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -25,7 +25,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamalves94&layout=compact&langs_count=7&theme=jolly"/>
 </div>
   
-<p align="center" padding-top="100px"> 
+<p align="center" margin-top="20px"> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
