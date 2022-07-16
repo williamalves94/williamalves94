@@ -7,7 +7,7 @@
   
  <p align="left">
   <a href="https://www.linkedin.com/in/william-alves-4b7683221/" target="_blank" alt="Linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=8A2BE2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>  
  
