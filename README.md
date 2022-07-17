@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer William Alves">
 
-<p>Desenvolvedor Front-end Junior ReactJS 💻
+<p>Desenvolvedor Front-end Junior ReactJS 
 
   
  <p align="left">
@@ -25,7 +25,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamalves94&layout=compact&langs_count=7&theme=jolly"/>
 </div>
  
-## Minhas Tecnologias 👨‍💻
+## Minhas Tecnologias 🖥️
   
 <p align="left" > 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" margin="20px">
