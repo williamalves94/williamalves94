@@ -4,6 +4,8 @@
 
 <p>Desenvolvedor Front-end Junior ReactJS 👨🏻‍💻
 
+Atualmente estudando ReactJS e Inglês 🤓
+
   
  <p align="left">
   <a href="https://www.linkedin.com/in/william-alves-4b7683221/" target="_blank" alt="Linkedin">
