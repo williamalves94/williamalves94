@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer William Alves">
 
-<p>Desenvolvedor Front-end Junior ReactJS 👨🏻‍💻
+<p>Desenvolvedor Front-end ReactJS 👨🏻‍💻
 
-Atualmente estudando ReactJS e Inglês 🤓
+Atualmente estudando ReactJS, TypeScript e Inglês 🤓
 
   
  <p align="left">
