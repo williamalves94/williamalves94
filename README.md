@@ -24,7 +24,7 @@ Atualmente estudando ReactJS, TypeScript e Inglês 🤓
  <div style="display: "flex">
   <a href="https://github.com/williamalves94">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=williamalves94&show_icons=true&theme=dark"/>
-  <img height="162em" width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamalves94&layout=compact&langs_count=7&theme=dark"/>
+  <img height="162em" width="650px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamalves94&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
 ## Minhas Tecnologias💻
