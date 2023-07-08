@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer William Alves">
 
-<p>Frontend Developer ReactJS | React Native | NextJS | TypeScript | PostgreSQL👨🏻‍💻
+<p>Frontend Developer ReactJS | NextJS | TypeScript 👨🏻‍💻
 
 Atualmente estudando JavaScript, TypeScript, ReactJS 👨🏻‍💻
 
