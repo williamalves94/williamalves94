@@ -11,9 +11,6 @@ Atualmente estudando JavaScript, TypeScript, ReactJS 👨🏻‍💻
   <a href="https://www.linkedin.com/in/william-alves-4b7683221/" target="_blank" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.google.com/intl/pt/gmail/about/" target="_blank" alt="gmail">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://www.instagram.com/william.als_/" target="_blank" alt="Instagram">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
