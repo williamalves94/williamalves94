@@ -6,7 +6,7 @@ Meu Portfolio Pessoal: https://my-portfolio-react-three.vercel.app/
 
 <p>Frontend Developer ReactJS | NextJS | TypeScript 👨🏻‍💻
 
-Atualmente estudando JavaScript, TypeScript, ReactJS 👨🏻‍💻
+Atualmente estudando JavaScript, TypeScript, ReactJS, React Native e NextJS 👨🏻‍💻
 
   
  <p align="left">
