@@ -11,7 +11,10 @@ Atualmente estudando JavaScript, ReactJS, TypeScript e NodeJS 👨🏻‍💻
   <a href="https://www.linkedin.com/in/william-alves-4b7683221/" target="_blank" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Meu Portfolio Pessoal-593D88.svg?style=for-the-badge&logo=react&logoColor=white">
+  <a href="https://my-portfolio-react-three.vercel.app/">
+    <img src="https://img.shields.io/badge/Meu Portfolio Pessoal-593D88.svg?style=for-the-badge&logo=react&logoColor=white">
+  </a>
+  
 </p>  
  
 
