@@ -19,7 +19,7 @@ Atualmente estudando JavaScript, ReactJS, TypeScript e NodeJS 👨🏻‍💻
 </p>
 <p>
   <a href="https://website-lord-of-the-rings.vercel.app/" target='_blank'>
-    <img src="https://img.shields.io/badge/Meu Projeto Pessoal mais recente-f2ca53.svg?style=for-the-badge&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/Meu Projeto Pessoal mais recente-ABABAB.svg?style=for-the-badge&logo=react&logoColor=white">
   </a>
 </p>
 
