@@ -4,7 +4,7 @@
 
 <p>Frontend Developer ReactJS | TypeScript | NextJS 👨🏻‍💻
 
-Atualmente estudando JavaScript, ReactJS, TypeScript e NodeJS 👨🏻‍💻
+Atualmente estudando JavaScript, ReactJS, TypeScript 👨🏻‍💻
 
   
  <p align="left">
