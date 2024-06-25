@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer William Alves">
 
-<p>Frontend Developer React.js | Javascript | Next.js | TypeScript | Tailwind 👨🏻‍💻
+<p>Frontend Developer React.js | Javascript | Next.js | TypeScript | Tailwind | Styled Components👨🏻‍💻
 
-Atualmente estudando Javascript, React.js 👨🏻‍💻
+Atualmente se especializando em Javascript e React.js 👨🏻‍💻
 
   
  <p align="left">
