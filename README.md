@@ -8,12 +8,12 @@ Atualmente se especializando em Javascript e React.js 👨🏻‍💻
 
   
  <p align="left">
-  <a href="https://www.linkedin.com/in/william-alves-4b7683221/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/william-alves-4b7683221/" alt="Linkedin" target="_blanck">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>  
 <p>
-  <a href="https://my-portfolio-react-three.vercel.app/" target='_blank'>
+  <a href="https://my-portfolio-react-three.vercel.app/" target='_blanck'>
     <img src="https://img.shields.io/badge/Meu Portfolio Pessoal-593D88.svg?style=for-the-badge&logo=react&logoColor=white">
   </a>
 </p>
