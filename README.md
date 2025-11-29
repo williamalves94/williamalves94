@@ -17,13 +17,7 @@ Atualmente se especializando em Javascript e React.js 👨🏻‍💻
     <img src="https://img.shields.io/badge/Meu Portfolio Pessoal-593D88.svg?style=for-the-badge&logo=react&logoColor=white">
   </a>
 </p>
-<p>
-  <a href="https://azs-web-rickandmorty-green.vercel.app/" target='_blank'>
-    <img src="https://img.shields.io/badge/Meu Projeto Pessoal mais recente-ABABAB.svg?style=for-the-badge&logo=react&logoColor=white">
-  </a>
-</p>
 
- 
  <div style="display: "flex">
   <a href="https://github.com/williamalves94">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=williamalves94&show_icons=true&theme=dark"/>
