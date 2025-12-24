@@ -14,6 +14,19 @@
     <img src="https://img.shields.io/badge/Meu Portfolio Pessoal-593D88.svg?style=for-the-badge&logo=react&logoColor=white">
   </a>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 ## Principais Tecnologias 💻
 <p align="left" > 
