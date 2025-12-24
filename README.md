@@ -2,10 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer William Alves">
 
-<p>Frontend Developer React.js | Javascript | Next.js | TypeScript | Tailwind | Styled Components👨🏻‍💻
-
-Atualmente se especializando em Javascript e React.js 👨🏻‍💻
-
+<p>Desenvolvedor Front-end React.js | Javascript | Next.js | Typescript | Node.js | PostgreSQL
   
  <p align="left">
   <a href="https://www.linkedin.com/in/william-alves-4b7683221/" alt="Linkedin" target="_blanck">
@@ -17,12 +14,6 @@ Atualmente se especializando em Javascript e React.js 👨🏻‍💻
     <img src="https://img.shields.io/badge/Meu Portfolio Pessoal-593D88.svg?style=for-the-badge&logo=react&logoColor=white">
   </a>
 </p>
-
- <div style="display: "flex">
-  <a href="https://github.com/williamalves94">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=williamalves94&show_icons=true&theme=dark"/>
-  <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamalves94&layout=compact&langs_count=7&theme=dark"/>
-</div>
  
 ## Principais Tecnologias 💻
 <p align="left" > 
@@ -31,4 +22,5 @@ Atualmente se especializando em Javascript e React.js 👨🏻‍💻
   <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
