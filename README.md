@@ -5,11 +5,6 @@
      align="right"
      alt="Computer William Alves">
 
-<br><br><br>
-<br><br><br>
-<br><br><br>
-<br><br><br>
-
 <p>
   Desenvolvedor Front-end React.js | JavaScript | Next.js | TypeScript | Node.js | PostgreSQL
 </p>
@@ -25,6 +20,11 @@
     <img src="https://img.shields.io/badge/Meu%20Portfólio%20Pessoal-593D88?style=for-the-badge&logo=react&logoColor=white">
   </a>
 </p>
+
+<br><br><br>
+<br><br><br>
+<br><br><br>
+<br><br><br>
 
 ## Principais Tecnologias 💻
 
