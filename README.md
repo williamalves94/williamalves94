@@ -7,6 +7,8 @@
 
 <br><br><br>
 <br><br><br>
+<br><br><br>
+<br><br><br>
 
 <p>
   Desenvolvedor Front-end React.js | JavaScript | Next.js | TypeScript | Node.js | PostgreSQL
